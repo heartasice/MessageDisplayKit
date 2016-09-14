@@ -1,0 +1,23 @@
+PODS:
+  - LKbadgeView (1.1.0)
+  - SECoreTextView (0.8.5)
+  - UIImage-Categories (1.0.0)
+  - YYKit (1.0.7):
+    - YYKit/no-arc (= 1.0.7)
+  - YYKit/no-arc (1.0.7)
+
+DEPENDENCIES:
+  - LKbadgeView (~> 1.1.0)
+  - SECoreTextView (~> 0.8.5)
+  - UIImage-Categories (~> 1.0.0)
+  - YYKit (~> 1.0.7)
+
+SPEC CHECKSUMS:
+  LKbadgeView: 35e7ecee61ef8e8282902ee79332b3b0b5efa5a9
+  SECoreTextView: 5f3bedc0c9ffc2f4c109c37142f25c12f37368dd
+  UIImage-Categories: a0593f6a7991c99016b9ecadfbd38b3717ff1a73
+  YYKit: 843d1b26e20b82c695790c9a89907eaa1e99907f
+
+PODFILE CHECKSUM: 531195b213ab9fb0b223d713c06031a6e850ffa4
+
+COCOAPODS: 1.0.1
